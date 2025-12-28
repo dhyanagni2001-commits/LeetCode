@@ -13,4 +13,12 @@ public:
         }
         return -1;
     }
+    // int n=nums.size();
+    // int sum = (n*n+n)/2;
+    // int sum1=0;
+    // for (int i=0;i<n;i++){
+    //     sum1 = sum1 + nums[i];
+    // }
+    // return sum-sum1;
+    }
 };
