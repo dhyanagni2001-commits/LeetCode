@@ -23,20 +23,60 @@ public:
     //     return count;
     // }
     
-    long long count=0;
-    long long i;
-    long long j;
-    for( i=0;i<nums.size();i++){
-         long long sum=0;
-        for(j=i;j<nums.size();j++){
-            sum=sum+nums[j];
-            if(sum==k){
-                count++;
+    // long long count=0;
+    // long long i;
+    // long long j;
+    // for( i=0;i<nums.size();i++){
+    //      long long sum=0;
+    //     for(j=i;j<nums.size();j++){
+    //         sum=sum+nums[j];
+    //         if(sum==k){
+    //             count++;
                 
-            }
-        }
+    //         }
+    //     }
+    // }
+    // return count;
+//     long long i = 0;
+// long long j = 0;
+// long long sum = 0;
+// long long count = 0;
+
+// while (j < nums.size()) {
+
+//     sum += nums[j];                // expand to right
+
+//     while (sum > k && i <= j) {    // shrink from left
+//         sum -= nums[i];
+//         i++;
+//         if (sum == k) {
+//         count++;
+//     }
+//     }
+
+//     if (sum == k) {
+//         count++;
+//     }
+
+//     j++;                           // move right pointer
+// }
+
+// return count;
+map<int,int> mpp;
+int sum=0;
+int length=0;
+for(int i=0;i<nums.size();i++){
+    sum=sum+nums[i];
+    if(sum==k){
+        length++;
     }
-    return count;
+    int rem = sum-k;
+    if(mpp.find(rem)!= mpp.end()){
+        length += mpp[rem];
+    }
+    mpp[sum]++;
+}
+return length;
     }
 
 };
