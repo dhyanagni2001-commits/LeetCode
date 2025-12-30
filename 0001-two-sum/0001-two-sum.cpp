@@ -9,20 +9,15 @@ public:
         //     }
         // }
         // return {-1};
-        int i=0;
-        int sum=0;
-        int j=0;
-        sort(nums.begin(),nums.end());
-        while(j<nums.size()){
-            sum=nums[i]+nums[j];
-            if(sum==target){
-                return {i,j};
-            }
-            if(sum>target&&i<=j){
-                i++;
-            }
-            j++;
+       map <int,int> mp;
+       for(int i=0;i<nums.size();i++){
+        int book = nums[i];
+        int req = target-book;
+        if(mp.find(req)!=mp.end()){
+            return{mp[req],i};
         }
-        return {};
+        mp[book]=i;
+       }
+       return{};
     }
 };
