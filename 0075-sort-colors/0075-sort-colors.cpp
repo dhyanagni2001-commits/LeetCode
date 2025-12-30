@@ -22,7 +22,7 @@ public:
         for(int i=count0;i<count1+count0;i++){
             nums[i]=1;
         }
-        for(int i=count1;i<count2+count1+count0;i++){
+        for(int i=count1+count0;i<count2+count1+count0;i++){
             nums[i]=2;
         }
        
