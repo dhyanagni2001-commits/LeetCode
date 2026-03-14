@@ -9,15 +9,36 @@ public:
         //     }
         // }
         // return {-1};
-       unordered_map <int,int> mp;
-       for(int i=0;i<nums.size();i++){
-        int book = nums[i];
-        int req = target-book;
-        if(mp.find(req)!=mp.end()){
-            return{mp[req],i};
+    //    unordered_map <int,int> mp;
+    //    for(int i=0;i<nums.size();i++){
+    //     int book = nums[i];
+    //     int req = target-book;
+    //     if(mp.find(req)!=mp.end()){
+    //         return{mp[req],i};
+    //     }
+    //     mp[book]=i;
+    //    }
+    //    return{};
+    // unordered_map<int, int> mp;
+    // for(int i=0;i<nums.size();i++){
+    //     int curr = nums[i];
+    //     int rec = target-curr;
+    //     if(mp.find(rec)!= mp.end()){
+    //         return {mp[rec],i};
+    //     }
+    //     mp[curr]=i;
+    // }
+    // return {};
+    // }
+    unordered_map<int, int> mpp;
+    for(int i = 0; i<nums.size();i++){
+        int curr = nums[i];
+        int diff = target - curr;
+        if(mpp.find(diff)!= mpp.end()){
+            return {i,mpp[diff]};
         }
-        mp[book]=i;
-       }
-       return{};
+        mpp[curr]=i;
+    }
+    return {};
     }
 };
