@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -46,4 +47,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
