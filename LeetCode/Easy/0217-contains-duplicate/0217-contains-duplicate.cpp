@@ -12,18 +12,27 @@ public:
     // return false;
         
     //   }
-    unordered_map<int,int> new11;
-    for(int x : nums){
-        new11[x]++;
-    }
-    for(auto &y : new11){
-        if(y.second==2){
-            return true;
-        }else{
-            return false;
-        }
+    // unordered_map<int,int> new11;
+    // for(int x : nums){
+    //     new11[x]++;
+    // }
+    // for(auto y : new11){
+    //     if(y.second>1){
+    //         return true;
+    //     }
     
         
+    // }
+    // return false;
+
+    unordered_map<int,int> mpp;
+    for(int i : nums){
+        mpp[i]++;
+    }
+    for(auto y : mpp){
+        if(y.second > 1){
+            return true;
+        }
     }
     return false;
     }
