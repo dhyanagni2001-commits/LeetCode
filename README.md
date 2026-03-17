@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0242-valid-anagram](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,4 +94,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 <!---LeetCode Topics End-->
