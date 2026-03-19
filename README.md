@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0020-valid-parentheses](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0242-valid-anagram](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
@@ -99,4 +100,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
