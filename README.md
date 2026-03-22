@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/3434-maximum-frequency-after-subarray-operation/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [0767-reorganize-string](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0767-reorganize-string/) | Medium |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/3434-maximum-frequency-after-subarray-operation/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/3434-maximum-frequency-after-subarray-operation/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,10 +103,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0767-reorganize-string](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0767-reorganize-string/) | Medium |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/3434-maximum-frequency-after-subarray-operation/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/3434-maximum-frequency-after-subarray-operation/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,4 +139,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3434-maximum-frequency-after-subarray-operation](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/3434-maximum-frequency-after-subarray-operation/) | Medium |
 <!---LeetCode Topics End-->
