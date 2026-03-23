@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0036-valid-sudoku](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0036-valid-sudoku/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 ## Greedy
