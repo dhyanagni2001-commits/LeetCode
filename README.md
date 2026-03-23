@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0020-valid-parentheses](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0242-valid-anagram](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -107,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/3434-maximum-frequency-after-subarray-operation/) | Medium |
 ## Sliding Window
