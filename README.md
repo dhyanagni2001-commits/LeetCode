@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/3434-maximum-frequency-after-subarray-operation/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
