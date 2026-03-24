@@ -33,25 +33,49 @@ public:
     //     ans.push_back(v[i].second);
     // }
     // return ans;
-    unordered_map<int, int> freq;
+    // unordered_map<int, int> freq;
+    // for(int a : nums){
+    //     freq[a]++;
+    // }
+    // vector<vector<int>> bucket(nums.size()+1);
+    // for(auto &p: freq){
+    //     int frequency = p.second;
+    //     int value = p.first;
+    //     bucket[frequency].push_back(value);
+    // }
+    // vector<int> ans;
+    // for(int i = nums.size(); i>=0 && ans.size() < k; i--){
+    //     for(int num : bucket[i]){
+    //         ans.push_back(num);
+    //         if(ans.size()==k){
+    //             break;
+    //         }
+    //     }
+    // }
+    // return ans;
+
+    unordered_map<int,int> mpp;
     for(int a : nums){
-        freq[a]++;
+        mpp[a]++;
     }
+
     vector<vector<int>> bucket(nums.size()+1);
-    for(auto &p: freq){
+
+    for(auto &p : mpp){
         int frequency = p.second;
         int value = p.first;
         bucket[frequency].push_back(value);
     }
+
     vector<int> ans;
-    for(int i = nums.size(); i>=0 && ans.size() < k; i--){
-        for(int num : bucket[i]){
-            ans.push_back(num);
+    for(int i = nums.size(); i>0 && ans.size()<k; i--){
+        for(auto p : bucket[i]){
+            ans.push_back(p);
             if(ans.size()==k){
-                break;
+            break;
             }
         }
     }
     return ans;
-    }
+     }
 };
