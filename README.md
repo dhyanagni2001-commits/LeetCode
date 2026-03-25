@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0036-valid-sudoku](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0036-valid-sudoku/) | Medium |
 | [0042-trapping-rain-water](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
+| [0045-jump-game-ii](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
+| [0045-jump-game-ii](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
 | [0767-reorganize-string](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0767-reorganize-string/) | Medium |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/3434-maximum-frequency-after-subarray-operation/) | Medium |
 ## Dynamic Programming
@@ -119,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
+| [0045-jump-game-ii](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/3434-maximum-frequency-after-subarray-operation/) | Medium |
 ## Sliding Window
