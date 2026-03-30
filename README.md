@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
+| [0027-remove-element](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0036-valid-sudoku](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0036-valid-sudoku/) | Medium |
 | [0042-trapping-rain-water](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
+| [0027-remove-element](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0567-permutation-in-string](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
