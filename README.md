@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1929-concatenation-of-array](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/3434-maximum-frequency-after-subarray-operation/) | Medium |
 ## Hash Table
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/3434-maximum-frequency-after-subarray-operation/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -135,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
