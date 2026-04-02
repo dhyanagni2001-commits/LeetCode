@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0767-reorganize-string](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0767-reorganize-string/) | Medium |
+| [1603-design-parking-system](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Easy/1603-design-parking-system/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
+| [1603-design-parking-system](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Easy/1603-design-parking-system/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -197,5 +199,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1603-design-parking-system](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Easy/1603-design-parking-system/) | Easy |
 | [1929-concatenation-of-array](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
 <!---LeetCode Topics End-->
