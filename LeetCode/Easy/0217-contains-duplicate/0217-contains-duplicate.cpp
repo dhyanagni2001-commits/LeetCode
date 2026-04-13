@@ -25,12 +25,12 @@ public:
     // }
     // return false;
 
-    unordered_map<int,int> mpp;
-    for(int i : nums){
-        mpp[i]++;
+    unordered_map<int,int> mp;
+    for(auto m:nums){
+        mp[m]++;
     }
-    for(auto y : mpp){
-        if(y.second > 1){
+    for(auto p:mp){
+        if(p.second >1){
             return true;
         }
     }
