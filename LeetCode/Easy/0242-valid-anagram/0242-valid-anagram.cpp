@@ -1,44 +1,22 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-    //     if (s.size() != t.size()){
-    //     return false;
-    //     }
-    //     vector<int> freq(26,0);
-
-    //     for(char c : s){
-    //         freq[c - 'a']++;
-    //     }
-
-    //     for(char c : t){
-    //         freq[c - 'a']--;
-    //     }
-
-    // return all_of(freq.begin(), freq.end(), [](int x){return x == 0;});
-    // return all_of(freq.begin(), freq.end(), [](int x) {return x==0});
-    // if(s.size()!=t.size()){
-    //     return false;
-    // }
-    // vector<int> freq(26,0);
-
-    // for(char c:s ){
-    //     freq[c - 'a']++;
-    // }
-    // for(char c:t ){
-    //     freq[c - 'a']--;
-    // }
-    
-    // return all_of(freq.begin(),freq.end(),[](int x){return x==0;});
-    if(s.size()!=t.size()){
+    if(s.size() != t.size()){
         return false;
     }
-    vector <int> freq(26,0);
-    for(char ch : s){
-        freq[ch - 'a']++;
+    unordered_map<char, int> mp;
+    for(auto p : s){
+        mp[p]++;
     }
-    for(char ch : t){
-        freq[ch - 'a']--;
+    for(auto p : t){
+        mp[p]--;
     }
-    return all_of(freq.begin(),freq.end(),[](int x){return x==0;});
+    for(auto p:mp){
+    if(p.second != 0){
+        return false;
     }
+   
+    }
+     return true;
+}
 };
