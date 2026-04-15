@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0036-valid-sudoku/) | Medium |
 | [0042-trapping-rain-water](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
+| [0075-sort-colors](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0135-candy](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Hard/0135-candy/) | Hard |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
+| [0075-sort-colors](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
@@ -124,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
+| [0075-sort-colors](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0567-permutation-in-string](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 ## Binary Search
