@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0705-design-hashset](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Easy/0705-design-hashset/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1929-concatenation-of-array](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
+| [0705-design-hashset](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Easy/0705-design-hashset/) | Easy |
 | [0767-reorganize-string](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0767-reorganize-string/) | Medium |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/3434-maximum-frequency-after-subarray-operation/) | Medium |
 ## Sorting
@@ -157,10 +159,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0023-merge-k-sorted-lists](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0146-lru-cache](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
+| [0705-design-hashset](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Easy/0705-design-hashset/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
+| [0705-design-hashset](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Easy/0705-design-hashset/) | Easy |
 | [1603-design-parking-system](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Easy/1603-design-parking-system/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -212,4 +216,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0705-design-hashset](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Easy/0705-design-hashset/) | Easy |
 <!---LeetCode Topics End-->
