@@ -2,15 +2,17 @@ class MyHashSet {
 public:
 vector<bool> hash;
     MyHashSet() {
-       hash.resize(1000001, false); 
+        hash.resize(1000001, false);
+        
     }
     
     void add(int key) {
-        hash[key] =true;
+        hash[key]=true;
+        
     }
     
     void remove(int key) {
-         hash[key] =false;
+        hash[key]=false;
     }
     
     bool contains(int key) {
