@@ -1,44 +1,15 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        // for(int i=0;i<nums.size();i++){
-        //     for(int j=i+1;j<nums.size();j++){
-        //         if(nums[i]+nums[j]==target){
-        //             return {i,j};
-        //         }
-        //     }
-        // }
-        // return {-1};
-    //    unordered_map <int,int> mp;
-    //    for(int i=0;i<nums.size();i++){
-    //     int book = nums[i];
-    //     int req = target-book;
-    //     if(mp.find(req)!=mp.end()){
-    //         return{mp[req],i};
-    //     }
-    //     mp[book]=i;
-    //    }
-    //    return{};
-    // unordered_map<int, int> mp;
-    // for(int i=0;i<nums.size();i++){
-    //     int curr = nums[i];
-    //     int rec = target-curr;
-    //     if(mp.find(rec)!= mp.end()){
-    //         return {mp[rec],i};
-    //     }
-    //     mp[curr]=i;
-    // }
-    // return {};
-    // }
-    unordered_map<int, int> mpp;
-    for(int i = 0; i<nums.size();i++){
-        int curr = nums[i];
-        int diff = target - curr;
-        if(mpp.find(diff)!= mpp.end()){
-            return {i,mpp[diff]};
+        unordered_map<int, int> mp;
+        for (int i =0;i<nums.size();i++){
+            int curr = nums[i];
+            int diff = target - curr;
+            if(mp.find(diff)!=mp.end()){
+                return {i,mp[diff]};
+            }
+            mp[curr] = i;
         }
-        mpp[curr]=i;
-    }
-    return {};
+        return {};
     }
 };
