@@ -1,23 +1,23 @@
 class Solution {
 public:
     bool isValidSudoku(vector<vector<char>>& board) {
-        unordered_map<int , unordered_set<char>> cols, rows;
-        map<pair<int,int>, unordered_set<char>> squares;
+        unordered_map<int, unordered_set<char>> cols,rows;
+        map<pair<int,int>, unordered_set<char>> square;
 
-        for(int r=0; r<9;r++){
-            for(int c=0;c<9;c++){
-                if(board[r][c]=='.') continue;
-                pair<int,int> squareboard = {r/3,c/3};
-
-                if(rows[r].count(board[r][c])||cols[c].count(board[r][c])||squares[squareboard].count(board[r][c])){
+        for(int i=0;i<9;i++){
+            for(int j=0;j<9;j++){
+                if(board[i][j]=='.') continue;
+                pair<int,int> squarepair = {i/3,j/3};
+                if(rows[i].count(board[i][j])|| cols[j].count(board[i][j]) || square[squarepair].count(board[i][j])){
                     return false;
                 }
+                rows[i].insert(board[i][j]);
+                cols[j].insert(board[i][j]);
+                square[squarepair].insert(board[i][j]);
 
-                rows[r].insert(board[r][c]);
-                cols[c].insert(board[r][c]);
-                squares[squareboard].insert(board[r][c]);
-            }   
+            }
         }
         return true;
+        
     }
 };
