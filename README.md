@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0217-contains-duplicate](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
+| [0304-range-sum-query-2d-immutable](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0304-range-sum-query-2d-immutable/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0705-design-hashset](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Easy/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Easy/0706-design-hashmap/) | Easy |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
+| [0304-range-sum-query-2d-immutable](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0304-range-sum-query-2d-immutable/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/3434-maximum-frequency-after-subarray-operation/) | Medium |
 ## Matrix
@@ -113,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0036-valid-sudoku/) | Medium |
 | [0200-number-of-islands](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
+| [0304-range-sum-query-2d-immutable](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0304-range-sum-query-2d-immutable/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
+| [0304-range-sum-query-2d-immutable](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0304-range-sum-query-2d-immutable/) | Medium |
 | [0705-design-hashset](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Easy/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Easy/0706-design-hashmap/) | Easy |
 | [1603-design-parking-system](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Easy/1603-design-parking-system/) | Easy |
