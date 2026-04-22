@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0036-valid-sudoku](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0036-valid-sudoku/) | Medium |
+| [0041-first-missing-positive](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Hard/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
 | [0075-sort-colors](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0036-valid-sudoku](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0036-valid-sudoku/) | Medium |
+| [0041-first-missing-positive](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Hard/0041-first-missing-positive/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0146-lru-cache](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
 | [0169-majority-element](https://github.com/dhyanagni2001-commits/LeetCode/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
