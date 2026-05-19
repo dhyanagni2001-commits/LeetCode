@@ -1,22 +1,23 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-    if(s.size() != t.size()){
+    if(s.size()!=t.size()){
         return false;
     }
-    unordered_map<char, int> mp;
+    unordered_map<int,int> mp;
     for(auto p : s){
-        mp[p]++;
+        mp[p-'a']++;
     }
-    for(auto p : t){
-        mp[p]--;
+    for(auto c : t){
+        mp[c - 'a']--;
     }
-    for(auto p:mp){
-    if(p.second != 0){
-        return false;
+
+    for(auto count:mp){
+        cout<<count.second;
+        if(count.second!=0){
+            return false;
+        }
     }
-   
-    }
-     return true;
+    return true;
 }
 };
