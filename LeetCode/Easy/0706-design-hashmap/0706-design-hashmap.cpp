@@ -1,31 +1,29 @@
 class MyHashMap {
 public:
-vector<int> val;
-vector<bool> exist;
+    vector<int> value1;
+    vector<bool> mp;
     MyHashMap() {
-        val.resize(1000001,0);
-        exist.resize(1000001,false);
-        
+        mp.resize(1000001,false);
+        value1.resize(1000001,0);
     }
     
     void put(int key, int value) {
-        val[key] = value;
-        exist[key] = true;
+        mp[key]=true;
+        value1[key] = value;
+        
     }
     
     int get(int key) {
-        if(exist[key]==true){
-            return val[key];
+        if(mp[key]==true){
+            return value1[key];
         }
         return -1;
     }
-        
-    
     
     void remove(int key) {
-        exist[key] = false;
-        
+        mp[key]=false;
     }
+
 };
 
 /**
