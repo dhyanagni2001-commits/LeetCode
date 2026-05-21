@@ -1,24 +1,22 @@
 class Solution {
 public:
     vector<int> sortArray(vector<int>& nums) {
-        unordered_map<int, int> mpp;
-        for(int p : nums){
-            mpp[p]++;
+        unordered_map<int,int> mpp;
+        for(auto a: nums){
+            mpp[a]++;
         }
+        int a = *min_element(nums.begin(),nums.end());
+        int b = *max_element(nums.begin(),nums.end());
 
-        int mini = *min_element(nums.begin(),nums.end());
-        int maax = *max_element(nums.begin(),nums.end());
-      
-        int i = 0;
-        for(int p=mini; p<=maax; p++){
-            while(mpp[p]>0){
-                nums[i]=p;
-                i++;
-                mpp[p]--;
+        int c = 0;
+        for(int i=a;i<=b;i++){
+            while(mpp[i]>0){
+                nums[c]=i;
+                mpp[i]--;
+                c++;
             }
         }
         return nums;
-
         
     }
 };
