@@ -1,22 +1,21 @@
 class MyHashSet {
 public:
-vector<bool> hash;
+    vector<bool> mp;
     MyHashSet() {
-        hash.resize(1000001, false);
+        mp.resize(1000001, 0);
         
     }
     
     void add(int key) {
-        hash[key]=true;
-        
+        mp[key]=true;
     }
     
     void remove(int key) {
-        hash[key]=false;
+        mp[key]=false;
     }
     
     bool contains(int key) {
-        return hash[key];
+        return mp[key];
     }
 };
 
